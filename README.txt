@@ -1,4 +1,4 @@
-*Simulador de um Sistema Detector de Incêndios Florestais*
+Simulador de um Sistema Detector de Incêndios Florestais
 
 ~~ Para compilar e executar: 
 
