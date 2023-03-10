@@ -1,14 +1,10 @@
-Alunos: Emanuelly Parreira 
-	Lucas Bomfim
-	Vinicius Matheus
+*Simulador de um Sistema Detector de Incêndios Florestais*
 
-** Trabalho: Simulador de um Sistema Detector de Incêndios Florestais **
-
-** Para compilar e executar: 
+~~ Para compilar e executar: 
 
 	Vá ao diretório onde se encontra o arquivo main.c e, no terminal, insira o comando <gcc main.c -o main>. Isso irá criar o executável, daí basta digitar ./main para executar o código.
 
-** Sobre o funcionamento do programa:
+~~ Sobre o funcionamento do programa:
 
 	O programa foi desenvolvido usando uma técnica multithreading, ou seja, usamos várias threads que executam simultaneamente as rotinas determinadas. Sendo assim, para simular um sistema detector de incêndios usamos 4 rotinas de thread diferentes:
 
